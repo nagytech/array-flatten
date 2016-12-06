@@ -1,0 +1,22 @@
+{
+  "name": "flatmap",
+  "version": "1.0.0",
+  "description": "Flatten implementation for JavaScript",
+  "main": "lib/flatten/main.jsx",
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagytech/array-flatten.git"
+  },
+  "author": "Jonathan Nagy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagytech/array-flatten/issues"
+  },
+  "homepage": "https://github.com/nagytech/array-flatten#readme"
+}
