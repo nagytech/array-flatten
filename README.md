@@ -7,6 +7,7 @@ clone
 npm install -D jasmine
 npm install -g jasmine
 jasmine
+```
 
 # Usage
 Add the contents of the lib/flatten/main.jsx file to any JavaScript project.
